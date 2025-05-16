@@ -1,5 +1,5 @@
 # Australian International Trade (1988-2023)
-The dashboard provides an overview of the Australian International Trading from 1988-2023. It includes analysis of botht he import and export trends across 10 main categories and 67 subcategories. Explore the full interactive dashboard by clicking the image above or [view it here](https://public.tableau.com/views/AustralianInternationalTrade_17470403940900/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The dashboard provides an overview of the Australian International Trading from 1988-2023. It includes analysis of both the import and export trends across 10 main categories and 67 subcategories. Explore the full interactive dashboard by clicking the image above or [view it here](https://public.tableau.com/views/AustralianInternationalTrade_17470403940900/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 [![Dashboard Preview](https://public.tableau.com/static/images/Au/AustralianInternationalTrade_17470403940900/Dashboard4/1.png)](https://public.tableau.com/views/AustralianInternationalTrade_17470403940900/Dashboard4)
 
